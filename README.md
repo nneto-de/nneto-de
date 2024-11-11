@@ -4,6 +4,7 @@
 
 My Name is **Nuno Freitas**, and currently I am pursuing a **Bachelor's degree in Computer Engineering** at **[ISEP](https://www.isep.ipp.pt/)**.
 I am also a student at **[42PORTO](https://www.42porto.com/)**.
+I am currently undertaking an internship as a Software Developer, and I work on a daily basis with a **.NET** environment.
 
 ## I have experience with: ##
  **Languages**
